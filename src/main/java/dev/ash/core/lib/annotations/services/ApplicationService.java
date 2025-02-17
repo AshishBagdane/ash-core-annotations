@@ -1,7 +1,7 @@
 /**
  *
  */
-package dev.ash.core.lib.annotations;
+package dev.ash.core.lib.annotations.services;
 
 import java.lang.annotation.Documented;
 import java.lang.annotation.ElementType;
