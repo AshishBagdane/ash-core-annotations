@@ -1,4 +1,4 @@
-package dev.ash.core.lib.annotations;
+package com.ashishbagdane.lib.annotations;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
